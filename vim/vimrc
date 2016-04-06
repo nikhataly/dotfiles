@@ -1,0 +1,3 @@
+" Easy access to start of line
+
+nmap 0 ^
